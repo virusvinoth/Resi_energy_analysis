@@ -2,6 +2,7 @@ transformers
 seaborn
 streamlit
 tensorflow
+tf-keras
 sentence_transformers
 matplotlib
 
