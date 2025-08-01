@@ -1,0 +1,9 @@
+transformers
+seaborn
+streamlit
+tensorflow
+sentence_transformers
+matplotlib
+matplotlib.pyplot
+
+#pip install -r requirements.txt
